@@ -1,10 +1,20 @@
-<img width="1086" height="648" alt="image" src="https://github.com/user-attachments/assets/638822ca-6772-4203-a94d-38b478f5635f" /># Automatic-Sharpener
+# Automatic-Sharpener
 Automatic Pencil Sharpener with Audio
 A custom automatic pencil sharpener built around the Seeed Studio XIAO ESP32-C3. It spins an N20 DC motor to sharpen your pencil at the press of a button, and plays Chipi Chipi Chapa Chapa every single time. Because why not.
 
 # About
 This is a fully self-contained pencil sharpener with onboard LiPo charging, a boost-converted 6V motor supply, and a DFPlayer Mini for audio playback on a custom 48mm  PCB.
 I built this because I wanted to get into PCB design using chips, so that I can confidently use them instead of dev boards in my future projects, all while making something fun and functional. On the hardware side, this project introuced me to audio functions and components.
+
+# Project Snippets
+<img width="1086" height="648" alt="image" src="https://github.com/user-attachments/assets/638822ca-6772-4203-a94d-38b478f5635f" />
+<img width="746" height="740" alt="Capture" src="https://github.com/user-attachments/assets/994ea470-0a33-495c-9ec5-accb8222a40b" />
+
+**<img width="668" height="647" alt="image" src="https://github.com/user-attachments/assets/e7f9eab7-3c38-4a99-b7d5-dc46a5a6a439" />**
+<img width="504" height="649" alt="image" src="https://github.com/user-attachments/assets/971f066b-1cb4-4859-9f5a-7437a95aae1d" />
+<img width="469" height="643" alt="image" src="https://github.com/user-attachments/assets/86c9d756-83d9-4c17-8c21-75321e5a1e29" />
+
+
 
 # Usage & Features
 
@@ -25,7 +35,7 @@ Files and their functions:
 sharpener.ino — Main loop, switch debounce, motor and audio control
 config.h — Pin definitions and settings
 
-#Component List
+# Component List
 
   1. Seeed Studio XIAO ESP32-C3
   2. TB6612FNG Motor Driver IC
