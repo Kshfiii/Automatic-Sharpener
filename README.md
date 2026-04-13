@@ -1,3 +1,6 @@
+<img width="1890" height="1063" alt="Project" src="https://github.com/user-attachments/assets/fc0a62df-8da5-4d05-b3af-7fc786d5730f" />
+
+
 # Da Sharpener
 Automatic Pencil Sharpener with Audio
 A custom automatic pencil sharpener built around the Seeed Studio XIAO ESP32-C3. It spins an N20 DC motor to sharpen your pencil at the press of a button, and plays Chipi Chipi Chapa Chapa every single time. Because why not.
